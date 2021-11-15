@@ -4,9 +4,9 @@ var displayCurrentTime = function() {
 
 var highlightTime = function() {
    
-    if (moment().format(HH)==) {
+    // if (moment().format(HH)==) {
 
-    }
+    // }
 }
 
 var createScheduledTask = function() {
